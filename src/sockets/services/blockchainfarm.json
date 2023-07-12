@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blockchainfarm-f588a",
+  "private_key_id": "bd6d1f4f56e7331cc4be7eb42c1f5c49f6ec7681",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwWTtXSs5kmHTd\ndHNc3GG8bdxd1GGAf72TSOqN50jgUV1SNZe05JYUInXUiaP7iilrqR32OCjfZAod\npB41nunFEYJNOj1x2z2bjAfh/EwaLmZDDk1Es3B/ljEU7slfREVljkIpmesBjBqi\neGULPYXAX0WJcB8gG+6nDiH+Ma8XHQTjeMJJ8yQW87/rywtrGsgT7bIvns7TKy2r\nIxj0Xq9jBH7OZD5VgDpVpsZnZGwbfYH4o9GYZbJnZYoJB7k7zFjl6zVgGW80vzVu\nZUh2wg1kX+g3w5xScm163kFKzp1aUjinKpYo6Qi5BftMzyvzqvz1iuxA57Nsq42l\n2y5ISxl1AgMBAAECggEAALaf1LkzU53xkpLeVzqGggeByzFKsdWHEIe/ek9MyAoi\nDWNEI2npOeaVOiVUt5q269395v+jaAL0cP7j/sAV5rGRsFEPOt6XUzspkbIpTvjw\nw/Qthb+RwfjynyTqoq80h7I2n3c7C+9J7tHODnaudPabh+JFT2L2n/hI6FnBjSgt\n0gQiHCuBz1eIBT9L/tvTynQCghOTfnag7yLxGHSEdaQBv+172/2AJM7NIUJ5t4lq\nSbsF0GQUmtUR1MdVewOHfeumiHHb2jC4vuPaUlb8EE8BQnvGQRV61icRQJKoSdhg\nttEbOsb6GPn0h/H38S9YDZrUrer4B9S6kHCX+pRXWQKBgQDj2A6THLdiUK3tHaR3\nVvwyijA5o2Fyjj6R1MahyoklSkqZX6NRaRcfySB9GXHZeJemRMjeUiG+qKJWVHFA\nR8Zi2bixZ2BmbQSsSNat/JUjTBSXDGUJDu1B2rWUOGDMzJDb19VSLKkINR7eUSvD\ntvZw9LlYgNou110liL6un1aVaQKBgQDGJBhdfMagEgXO2HuBv9TZFOVn1hCta8MX\nhkTewZfvyMJoAII6B8q6H24BZZoJV7nbwhriOvje+4v7uBP+jFtdLzHLl+FuLAuD\nZ5lKd80ZpqDdMQgxUxZ6pE5zozhinzBQlqproHbBDetUHpoAw2+XFF64oApC/MlT\nbF1kedNmLQKBgE7jCLDQ2YG103Jst/wF5w4MoIPkWKIUM//D/v4XpQJ/RXLzFRXj\n3/jGZ3RI8g1M3pzX5gBryXk84/AmDowmDb8+CN+Lnmn4Rwzrr0DQWka9Wceup/DJ\n9UW+1u2503I1RdaIVTi9c8z+r3BkBFYgLBWR9fZ5rpFXSc3sGbFWQ+E5AoGAHdQN\nPvWrySktaqg4X54LYuq8ZldZh2HzqrTx5T7rqpNkgNeiwy2tHTviCZ/MAqAMQMMF\n3QzXrmnb9vcNO4LRtkOGkYm5zCYhTZTpBMboP3ZQPTxGaXaCqc/WZ54ovOAOG/Oy\nkCVF+2YnCTDaKkdBo1LTt6OQJ+l6PW7Q2HFmm7kCgYAQypFk2OUkgiJr3baPXK4C\nRSDcv28K4OMHF15JnRoNX7KTFM3PhCyIh8mXhWK14/DoiZom8n9NOjzXIOOSsab+\ncbZqSC16JrdnKXJ8m5z/9LubtsRPY/V/2622JS/F3OGBbcPFyLPGKU5MB/FNcn4q\nE6LzCnRmUHCCOvfygY75uQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7gy2v@blockchainfarm-f588a.iam.gserviceaccount.com",
+  "client_id": "107146621020764787894",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7gy2v%40blockchainfarm-f588a.iam.gserviceaccount.com"
+}

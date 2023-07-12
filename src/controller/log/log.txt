@@ -1,0 +1,19 @@
+08:45:27.091 INFO  {"otp":"453615"} 
+08:45:57.918 INFO  {"otp":"453615"} 
+08:46:21.796 INFO  {"otp":"453615"} 
+16:37:47.631 INFO  Cannot access 'arrayPromise' before initialization
+{}
+ReferenceError: Cannot access 'arrayPromise' before initialization
+    at order (D:\project\BE_BITMETA\BE_Remiterno_DKTech\src\controller\binaryOption.js:688:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)order 
+16:40:28.269 INFO  streak is not defined
+{}
+ReferenceError: streak is not defined
+    at order (D:\project\BE_BITMETA\BE_Remiterno_DKTech\src\controller\binaryOption.js:691:33)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)order 
+16:52:48.055 INFO  NULL is not defined
+{}
+ReferenceError: NULL is not defined
+    at order (D:\project\BE_BITMETA\BE_Remiterno_DKTech\src\controller\binaryOption.js:716:64)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)order 

@@ -1,0 +1,8 @@
+10:36:33.361 INFO  commissionOrderi is not defined
+{}
+ReferenceError: i is not defined
+    at roseOrder (D:\project\BE_BITMETA\BE_Remiterno_DKTech\src\commons\binaryOption.js:69:26)
+    at commissionOrder (D:\project\BE_BITMETA\BE_Remiterno_DKTech\src\commons\binaryOption.js:107:59)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+    at async Promise.all (index 10)
+    at async order (D:\project\BE_BITMETA\BE_Remiterno_DKTech\src\controller\binaryOption.js:788:21) 
